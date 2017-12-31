@@ -4,6 +4,9 @@
 
 # Как использовать
 
+В python скрипте, который лежит в одной директории с файлом
+"quadratic_equation.py" выполнить следующий код
+
 ```python
 include quadratic_equation
 
