@@ -8,7 +8,7 @@
 include quadratic_equation
 
 
-get_roots(a,b,c)  # вернёт (x1,x2)
+quadratic_equation.get_roots(a,b,c)  # вернёт (x1,x2)
 ```
 Параметры:
 a, b, c - float
