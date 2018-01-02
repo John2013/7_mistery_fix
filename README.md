@@ -9,7 +9,6 @@
 ```python
 from quadratic_equation import get_roots
 
-
 a, b, c = 4, 2, 3  # или другие числа int или float
 x1, x2 = get_roots(a, b, c)  # float или Null
 ```
